@@ -1,0 +1,2 @@
+bin\Debug\app.publish\OfficeAppManifests\KEManifest.xml
+C:\Users\Baba\source\repos\KE\KE\bin\Debug\app.publish\KE.app

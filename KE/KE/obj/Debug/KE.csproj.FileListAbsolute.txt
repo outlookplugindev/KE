@@ -1,0 +1,2 @@
+C:\Users\Baba\source\repos\KE\KE\obj\Debug\KE.csproj.AssemblyReference.cache
+C:\Users\Baba\source\repos\KE\KE\obj\Debug\KE.csproj.CoreCompileInputs.cache
