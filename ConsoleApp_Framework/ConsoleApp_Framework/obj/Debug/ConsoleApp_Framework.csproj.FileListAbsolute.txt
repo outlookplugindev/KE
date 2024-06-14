@@ -1,0 +1,10 @@
+C:\Users\Baba\source\repos\ConsoleApp_Framework\ConsoleApp_Framework\bin\Debug\ConsoleApp_Framework.exe.config
+C:\Users\Baba\source\repos\ConsoleApp_Framework\ConsoleApp_Framework\bin\Debug\ConsoleApp_Framework.exe
+C:\Users\Baba\source\repos\ConsoleApp_Framework\ConsoleApp_Framework\bin\Debug\ConsoleApp_Framework.pdb
+C:\Users\Baba\source\repos\ConsoleApp_Framework\ConsoleApp_Framework\obj\Debug\ConsoleApp_Framework.csproj.AssemblyReference.cache
+C:\Users\Baba\source\repos\ConsoleApp_Framework\ConsoleApp_Framework\obj\Debug\ConsoleApp_Framework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Baba\source\repos\ConsoleApp_Framework\ConsoleApp_Framework\obj\Debug\ConsoleApp_Framework.csproj.CoreCompileInputs.cache
+C:\Users\Baba\source\repos\ConsoleApp_Framework\ConsoleApp_Framework\obj\Debug\ConsoleApp_Framework.exe
+C:\Users\Baba\source\repos\ConsoleApp_Framework\ConsoleApp_Framework\obj\Debug\ConsoleApp_Framework.pdb
+C:\Users\Baba\source\repos\ConsoleApp_Framework\ConsoleApp_Framework\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Baba\source\repos\ConsoleApp_Framework\ConsoleApp_Framework\obj\Debug\ConsoleApp_Framework.csproj.CopyComplete
